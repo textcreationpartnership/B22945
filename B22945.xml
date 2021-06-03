@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The absurdity &amp; falsness of Thomas Trion's doctrine manifested in forbidding to eat flesh, contrary to the command of God, the example of angels, Christ Jesus, and the holy apostles : and proved to be doctrine of devils, by the testimony of Holy Scriptures ...</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <extent>Approx. 82KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22945</idno><idno type="EEBO-CITATION">19371696</idno>
+  <idno type="VID">205482</idno>
+  <idno type="EEBO-PROQUEST">2248570447</idno>
+  
+            <idno type="STC">Wing F859</idno>
+            <idno type="OCLC">19371696</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The absurdity &amp; falsness of Thomas Trion's doctrine manifested in forbidding to eat flesh, contrary to the command of God, the example of angels, Christ Jesus, and the holy apostles : and proved to be doctrine of devils, by the testimony of Holy Scriptures ...</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>[6], 28, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Hawkins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: John Field, Junior.</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tryon, Thomas, 1634-1703. --  Way to health, long life, and happiness.</term>
+               <term type="topical_term">Vegetarianism --  Religious aspects --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205482:1"/>
+            <p>THE ABSURDITY &amp; FALSNES<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OF Thomas Trion's DOCTRINE MANIFESTED, IN <hi>Forbidding to Eat Flesh,</hi> CONTRARY TO The Command of GOD, the Example of Angels, CHRIST JESUS, and the holy Apostles: AND <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roved to be <hi>Doctrine of Devils,</hi> by the Testimony of HOLY SCRIPTURES: <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a few Queries thereon, as laid down in his Books,—one In<g ref="char:EOLhyphen"/>tituled, <hi>The Way to Health, long Life and Happiness;</hi> the other, <hi>The Way to make all People Rich:</hi> Subscribed <hi>Phylotheos Physiologus.</hi>
+            </p>
+            <p>ALSO, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Errour in affirming, That <hi>Killing the Creatures for Food, is from the fierce Wrath of God, and Hellish Nature in Man, and a Fruit of Hell.</hi>
+            </p>
+            <p>AND, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lawfulness of Eating both Flesh of <hi>Fowls</hi> and <hi>Fish,</hi> &amp;c. in the Fear of God, being received with Thanksgiving, proved by Scripture, and the Example of Christ and his Apostles.</p>
+            <p>TOGETHER WITH <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me Remarks on the Verses Printed as a <hi>Preface</hi> to his Book Enti<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>led, <hi>The Way to make all People Rich,</hi> &amp;c. In which Verses it is said;</p>
+            <q>
+               <l>Not He that bore the Almighty Wand could give</l>
+               <l>Diviner Dictates how to Eat and Live.</l>
+            </q>
+            <p>Than <hi>Thomas <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n, Printed for <hi>Tho. Howkins,</hi> in <hi>George-Yard<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>rd-street,</hi> 1685.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:205482:2"/>
+            <pb facs="tcp:205482:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>FRIEND,</salute>
+            </opener>
+            <p>THese ensuing lines or Queries on some things in the Books intituled, the one, <hi>the Way to Health, long Life and Happiness,</hi> subscribed, <hi>Philotheos, Phisiologus;</hi> the other, <hi>The Way to make all People rich,</hi> or <hi>Wisdom</hi>'s <hi>Call,</hi> &amp;c. by the same Author, which is generally reputed to be one <hi>Thomas Trion,</hi> a person I have no personal knowledge of, nor any acquain<g ref="char:EOLhyphen"/>tance with, but by his Books: I find he is wholly against, and doth ab<g ref="char:EOLhyphen"/>solutely forbid the Eating of Flesh, thô he doth direct how to Roast, Boyl, Bake, Stew, Fry and Broyl it, <hi>&amp;c.</hi> and also the Eating of Fish, and is against killing of any Creature whatsoever, let the pretence be what it will; and also in the last named Book there are Verses printed in his praise, which calls the Plowing the Earth, <hi>Ingratitude in Man.</hi>
+            </p>
+            <p>Now, first, I desire thou mayst do like the Noble <hi>Bereans,</hi> search the Scriptures, and see if these things are so or not; for in <hi>Gen.</hi> 2. 15. and <hi>Gen.</hi> 3. 25. thou mayst find Man was to dress or till the Earth, by Gods own direction, before the Fall; for <hi>dress</hi> is the same word with <hi>till,</hi> thô variously rendred.</p>
+            <p>Secondly, And then we read, <hi>Abel</hi> offered the Firstling, and was accepted; and <hi>Noah</hi> offered of every clean Beast and Fowl. And then <hi>Abraham</hi> the Father of the faithful, at the command of God, <hi>Gen.</hi> 15. 9. took an Heifer of three years old, and a She-Goat, and a Ram of the like age, and a Turtle-dove, and a young Pidgeon, and divided them in pieces: Tho killing (the pretence what it will) <hi>T. T.</hi> doth af<g ref="char:EOLhyphen"/>firm from a true light and ground, as he saith, proceeds from the fierce Wrath of God, and is contrary to the friendly love and Light of God in Christ; yet I read God commanded both to kill and eat: See <hi>Exo.</hi> 12. to the 9. <hi>v.</hi> and all <hi>Israel</hi> did both kill and eat flesh, and <hi>Moses</hi> and <hi>Aaron,</hi> and <hi>Samuel</hi> eat flesh, see 1 <hi>Sam.</hi> 9. 24. And many In<g ref="char:EOLhyphen"/>stances might be given of the holy Ancients; yea Christ and his Apo<g ref="char:EOLhyphen"/>stles eat flesh and fish; and therefore finding his Doctrine was wholly contrary to Scripture, and the practice of them mentioned before, and yet by some unstable People too far credited, I thought meet to make
+<pb facs="tcp:205482:3"/> the ensuing Queries, and write what I have. For I can truely say, It's not for Contention, nor to be seen in Print, or any sinister end, ad<g ref="char:EOLhyphen"/>vantage or profit; but only to shew the folly, absurdity and inconsistency, and falseness of his Doctrine, and how contrary to Scripture and right Reason his Reasonings and Writings are, against killing any Creature or eating flesh and fish in Moderation, and the fear of God, and with Thanksgiving, which only is the Eating that I plead for; and I do believe that flesh and fish may and ought to be so eaten, and every Crea<g ref="char:EOLhyphen"/>ture with thanksgiving ought to be receiv'd; for I am against Excess and Intemperance in Eating and Drinking, and Apparel, and all other things, and desire the good Exhortation of the Apostle might be more minded and practised, 1 <hi>Cor. 10. 31. Whether therefore you eat or drink, or whatsoever you do, do all to the glory of God:</hi> Yet I also judge all ought to be careful (and my Advice as a friend is, that they may) that under specious pretence of <hi>Temperance</hi> and <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi> &amp;c. they are not by a seducing Spirit led into the very Do<g ref="char:EOLhyphen"/>ctrine of Devils. There are several things in his Books I have took little notice of, as his Obscene discourse about Women, <hi>&amp;c.</hi> which I judge not fit for many to read, neither to proceed from a true Light and ground, as his Phrase is: He also greatly applauds and extolls Musick, saying the Bag pipes are an excellent Harmony for Shepherds to entertain their Flocks with, which saith <hi>T. T.</hi> Sheep much delight in, <hi>p.</hi> 655. But how he either knows or can prove it, I shall leave the Reader to judge; as also that the Organs sounds are full of Majesty, sweetness and gravity, and seem to be as much <hi>Divine</hi> as <hi>Humane;</hi> (but is it so to any fearing God, and guided by his Spirit?)</p>
+            <p>And he saith Musick works upon the Minds and Passions of Men; but let him prove that it makes them better: for though he saith the Mental and Instrumental Harmony of <hi>David</hi> did asswage or mitigate, by awakening and strengthening its simile, and by its friendly Influen<g ref="char:EOLhyphen"/>ces compose, and as it were by a sweet violence chase away Inequality, Discord and Enmity in <hi>Saul;</hi> yet the Scripture doth not so say, see 1 <hi>Sam.</hi> 16. 58. and the <hi>18th</hi> Chapter, and Verse the <hi>11th,</hi> it's said, <hi>Saul cast the Javelin, and said, I will smite David even to the wall with it:</hi> The Enmity was not so chased away it seems, though <hi>David</hi> did then play as at other times, but that <hi>Saul</hi> therein sought to
+<pb facs="tcp:205482:3"/> kill <hi>David:</hi> mark, Though he played, saith the Text, as at other times; from whence observe, whether the Musick had such powerful Influence as he doth assert, (or any at all) to chase away Enmity. And I desire that it may be considered, whether the Fruit of Hell, (which he calls Killing the Creatures) doth not help him to Guts to make Mu<g ref="char:EOLhyphen"/>sick with, or Fiddle-strings: But if they dye of themselves, would he have the works of God so defaced, as to have their Guts pulled out for him to make Musick with?—Well, I have enlarged beyond my own Expectation, but shall now draw to a Conclusion; and I shall by the Manifestation of the Truth, commend my self herein to every Man's Conscience in the sight of God, desiring what I have writ be no fur<g ref="char:EOLhyphen"/>ther received any, than it answers the Truth in them, and is agree<g ref="char:EOLhyphen"/>able to the Holy Scriptures. And remain,</p>
+            <closer>
+               <signed>Thy Friend,<lb/> John Field, <hi>Junior,</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>IF all those things were true <hi>T. T.</hi> doth say,</l>
+               <l>It seems like Day turn'd Night, not Night turn'd Day:</l>
+               <l>For if it sinful be on <hi>Flesh</hi> to feed,</l>
+               <l>Of <hi>Fish,</hi> or <hi>Fowl,</hi> or <hi>Beast,</hi> I pray what need</l>
+               <l>The Man to teach us how to roast and boyl?</l>
+               <l>Do'n't his Receipts his Doctrine give the Foyl?</l>
+               <l>One while he builds, then down he throws again;</l>
+               <l>Confused working of his rambling <hi>Brain!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No true <hi>Philosopher,</hi> no true <hi>Divine;</hi>
+               </l>
+               <l>His Errour's shews, his Light but dim doth shine:</l>
+               <l>He takes upon him many things to teach</l>
+               <l>He knows not of, they are beyond his reach;</l>
+               <l>For Holy Writ if Men read and believe,</l>
+               <l>
+                  <hi>T. Trion</hi>'s Doctrine they should not receive;</l>
+               <l>'Cause in the Scriptures they may plainly find</l>
+               <l>Christ and th' Apostles of another mind:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:205482:4"/>
+               <l>The Son of God, whom all should hear and heed,</l>
+               <l>Eat <hi>Fish,</hi> and of the <hi>Paschal Lamb</hi> did feed:</l>
+               <l>And what is sold in Shambles <hi>Paul</hi> bids take,</l>
+               <l>And eat, not questioning for Conscience sake.</l>
+               <l>But <hi>Thomas Trion</hi> otherwise doth tell;</l>
+               <l>Whence Springs false Doctrine, but from Pit of Hell?</l>
+               <l>To forbid Marriage, and from Meats abstain,</l>
+               <l>Doctrine of Devils is, appeareth plain:</l>
+               <l>For whatsoever from without doth go</l>
+               <l>Into the Mouth, doth not defile, I know;</l>
+               <l>But that which from the Heart proceeds within</l>
+               <l>Defiles the Man, as Envy, Pride, all Sin:</l>
+               <l>Yet <hi>Snakes</hi> and <hi>Fleas</hi> and <hi>Lice,</hi> which do annoy,</l>
+               <l>Can it be sinful such things to destroy?</l>
+            </lg>
+            <lg>
+               <l>And will the sound of Bagg-pipes please the Sheep;</l>
+               <l>Or Pastures green, where they may feed and sleep?</l>
+               <l>Did <hi>Thomas</hi> e're dumb Creatures hear complain,</l>
+               <l>And speak as <hi>Balaam</hi>'s Ass? or did he feign</l>
+               <l>The <hi>Jack-daw</hi>'s Story, and the many cries?</l>
+               <l>They're either true, or else fictitious Lies.</l>
+            </lg>
+            <lg>
+               <l>Is catching <hi>Fish,</hi> or <hi>Fowls,</hi> or killing <hi>Deer,</hi>
+               </l>
+               <l>To be accounted Wars and Blood-shed? Here</l>
+               <l>I judge the Text the Preacher misapplies,</l>
+               <l>As those may see that will not shut their Eyes.</l>
+            </lg>
+            <lg>
+               <l>I rest, commending all to Truth Divine,</l>
+               <l>God's Grace and Light which in their Hearts doth shine;</l>
+               <l>Which teacheth Man to eat and drink, and wear</l>
+               <l>What's lawful, sanctify'd by th' Word and Prayer.</l>
+            </lg>
+            <closer>
+               <signed>B. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:205482:4"/>
+            <head>THE <hi>Absurdity and Falsness</hi> OF <hi>T. TRION</hi>'s Doctrine Manifest, <hi>&amp;c.</hi> In his BOOK <hi>The Way to Health,</hi> &amp;c. p. 513.</head>
+            <p>IT's said, <q>Let Man know this for a certain truth, that the groan<g ref="char:EOLhyphen"/>ing of that Creature that suffereth wrong, is the beginning of Pain and Torment to him that doth it.</q>
+            </p>
+            <p>Now, <hi>Gen. 4. 4. Abel</hi> (who Christ, <hi>Mat.</hi> 23. 25. called Righ<g ref="char:EOLhyphen"/>teous) brought of the Firstlings of the Flock, and of the Fat there<g ref="char:EOLhyphen"/>of, and the Lord had respect to his Offering.</p>
+            <p>From whence I Query,</p>
+            <p n="1">1. Whether that Creature suffered wrong? 2. If so; Whether the Killing of the Firstling was the beginning of <hi>Abel</hi>'s Pain and Torment? And in <hi>p. 342. T. T.</hi> saith, <q>There is greater Evil and Misery attends Mankind by killing and oppressing his fellow Creatures, and eating their Flesh, and that without distinction, than is generally apprehen<g ref="char:EOLhyphen"/>ded, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>From whence I Query,</p>
+            <p n="1">1. Whether Righteous <hi>Abel</hi> committed Evil in Killing the Firstling? 2. Whethar the Firstling was his fellow Creature? And, 3. Whe<g ref="char:EOLhyphen"/>ther every living Creature, as a Dog, a Cat, a Lamb, a Fish, <hi>&amp;c.</hi> be Man's fellow Creature? And, 4. Whether <hi>Abel</hi> was an Oppressor for Killing the Firstling? And the aforesaid 342 <hi>p. T. T.</hi> saith, <q>Had Man continued in the pure Law of God, and followed the voice and Dictates of the divine Principle which he was Created to live in, he would have been far from Oppressing, Killing and Eating the Flesh and Blood of Beasts.—</q>
+            </p>
+            <pb n="2" facs="tcp:205482:5"/>
+            <p>From whence I Query,</p>
+            <p n="1">1. What Voice, Principle and Dictates did <hi>Abel</hi> follow when he killed the Firstling, seeing the Scriptures say, <hi>God had respect to Abel, and to his Offering,</hi> and Christ calleth him <hi>Righteous Abel?</hi> And, 2. Could he be Righteous, and yet departed from the pure Law of God? and if not departed from the pure Law of God, (he would have been far from Oppressing and Killing, <hi>&amp;c.</hi> saith <hi>T. T.</hi> And in 412 <hi>p.</hi> of the said Book, <hi>T. T.</hi> saith, <q>
+                  <hi>Abel's Blood cryed unto the Lord;</hi> the very same is to be understood in all kinds of Oppression both to Man and Beasts; they all by a sweet sympathetical Operation call for Vengeance.</q> And in <hi>p. 413. T. T.</hi> saith, <q>Every violent Action and Oppression, let it be little or much, or offer'd unto whatsoever Creatures, does as naturally and spiritually awaken in them and without them, the fierce Wrath of God and Nature, as the Blood of innocent <hi>Abel</hi> did cry, and awaken the Lord; whence <hi>Cain</hi>'s Judgment proceeded.</q> And in <hi>p.</hi> 513, 514. he maketh the Beast say, <q>We move the Prin<g ref="char:EOLhyphen"/>ciples of Nature by a certain sympathetical Operation, which awa<g ref="char:EOLhyphen"/>kens the Wrath, and draws down Judgments on the Oppressor.</q>
+            </p>
+            <p>From whence I Query,</p>
+            <p n="1">1. Seeing <hi>T. T.</hi> mostly joyns Oppressing and Killing together, whe<g ref="char:EOLhyphen"/>ther the Blood of the Firstling or Lamb <hi>Abel</hi> killed, cryed to the Lord (as <hi>Abel</hi>'s did) (or by a sympathetical Operation, as his term is) for Vengeance on <hi>Righteous Abel,</hi> whom <hi>T. T.</hi> acknowledgeth to be <hi>Innocent?</hi> And, 2. Whether Mans Killing of any Creature what<g ref="char:EOLhyphen"/>soever, as any Beasts, Fowl, Fish, Worm, Frog or Louse, does awaken within and without them the fierce wrath of God and Nature, as the Blood of <hi>Innocent Abel</hi> did? And, 3. Whether the Lamb <hi>Abel</hi> kil<g ref="char:EOLhyphen"/>led, or Man's killing any Creature whatsoever, did (or would so) move the Principles of Nature, <hi>&amp;c.</hi> as to awaken the wrath, and draw down Judgments on <hi>Righteous Abel,</hi> or on any that shall Kill any Crea<g ref="char:EOLhyphen"/>ture whatsoever without exception. Also the like may be queryed of Righteous <hi>Noah</hi>'s Offering of every clean Beast and Fowl, <hi>Gen.</hi> 8. 20. and whether his Killing them were from the dark Root, and wrath, and doth awaken, <hi>&amp;c.</hi> as aforesaid. I also Query from what <hi>T. T.</hi> saith in the afore-recited <hi>Page</hi> 514, and 515.</p>
+            <p n="1">1. Whether <hi>Abel</hi> and <hi>Noah</hi> proved disobedient to the voice of <hi>Wis<g ref="char:EOLhyphen"/>dom,</hi> or kept to the Essential Law of God by (or in) Killing the Lamb, clean Beast, &amp;c? 2. And whether <hi>Abel</hi> and <hi>Noah</hi> entred with their Desires, not only into the Nature of the wild savage Beasts of Prey, but awakened the fierce <hi>Wrath,</hi> and thereby deprived themselves of
+<pb n="3" facs="tcp:205482:5"/> the divine understanding, and did invade the Rights and Priviledges of the inferiour Creatures by killing the Firstling, clean Beast, <hi>&amp;c?</hi> 3. If so, whether God will not retaliate the wrong of the Lamb, clean Beast, <hi>&amp;c.</hi> whose blood <hi>Abel</hi> and <hi>Noah</hi> shed, on Righteous <hi>Abel</hi> and <hi>Noah,</hi> that offered the same, or the Fat thereof? I also query the same of <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> killing the Lamb caught in the thicket? And in <hi>T. T</hi>'s book, inti<g ref="char:EOLhyphen"/>tuled, <hi>The way to make all rich,</hi> or <hi>Wisdom's Call,</hi> p. 45, 46. he saith, That Flesh and Fish cannot be eaten without violence, and doing that which a man would not be done unto, and making destruction of Gods Crea<g ref="char:EOLhyphen"/>tures;—All kind of Violence, whether towards our Kind, or inferi<g ref="char:EOLhyphen"/>our Creatures, arises from the Awakened wrath in Nature, and that the same does by Simile excite the fierce, wrathful Principle in the man that kills and eats them, and renders him prompt and ready for <hi>any</hi> Acts of Cruelty or Oppression.</p>
+            <p>Now I read in <hi>Luk. 24. 42, 43. And they gave him</hi> (that is Christ) <hi>a piece of broiled fish, and of an Honey-comb; and he took it and did eat be<g ref="char:EOLhyphen"/>fore them. Note,</hi> This was after his Crucifixion, and Resurrection.</p>
+            <p>From whence I Query,</p>
+            <p n="1">1. Whether Christ Jesus did commit Violence?</p>
+            <p n="2">2. Did he break that golden Rule he laid down, and do as he would not be done unto?</p>
+            <p n="3">3. Did he make destruction of Gods Creatures?</p>
+            <p n="4">4. Did his eating Fish arise from the awakened wrath in Nature in him?</p>
+            <p n="5">5. Did the same by Simile excite the fierce, wrathful Principle (if I may without Blasphemy so say) in Christ Jesus, after his Crucifixion and Resurrection, and render him prompt and ready for <hi>any</hi> Acts of Cruel<g ref="char:EOLhyphen"/>ty or Oppression?</p>
+            <p n="6">6. Did the Disciples or the 9000 men, besides Women and Children, which all eat of the Loaves and Fishes at Christs command, commit vio<g ref="char:EOLhyphen"/>lence, and do as they would not be done to? and did they make de<g ref="char:EOLhyphen"/>struction of Gods Creatures? And was their eating Fish (at Christs com<g ref="char:EOLhyphen"/>mand or direction) from the Awakened wrath in Nature? and did their eating by Simile excite the fierce wrathful Principle, and render them prompt and ready for <hi>any</hi> Acts of Cruelty or Oppression, as Mur<g ref="char:EOLhyphen"/>der, Blood-shed, and what not? And can any Christian believe, that ever Christ would have commanded such a great multitude (as we may read <hi>Mat. 14. v.</hi> 17, 18, 19. and Chap. 15. <hi>v.</hi> 34, 35, 36, 37.) to have eat Fish, <hi>&amp;c.</hi> (and wrought such a Miracle as he did for them) if their Eating would have been of such ill consequence, as <hi>T. T.</hi> affirms the <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:205482:6"/> were Fruits of Hell; and whether their killing was from the Origi<g ref="char:EOLhyphen"/>nal Spring and Dark Fountain of wrath and eternal <hi>Woe?</hi> 2. Whe<g ref="char:EOLhyphen"/>ther the killing (seeing it's said <hi>any Creature)</hi> of a Lamb, Gudgeon, Bird, Worm, Frog, Louse or Flea, or any other Creature, proceeds from the awakened Wrath of God in man, or the Original Spring of Wrath, and is a fruit of the Kingdom of Darkness and of Hell, and will produce eternal woe to them that do it? And whether <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> killing the Ram caught in the Thicket, did proceed from the Wrath of God, <hi>&amp;c.</hi> and was a Fruit of Hell, <hi>&amp;c.</hi> And seeing that <hi>T. T.</hi> saith, <q>Do no violence to any Inferiour Creatures, nor in no kind Oppress, hurry or kill them; nor eat the Blood or Flesh of Beasts, that so they may avoid the Incorporating of the Beastial, Savage and Sensual Properties, <hi>p. 75. Wisdoms call.</hi>
+               </q>
+            </p>
+            <p n="1">1. Query: Whether the Viper mentioned <hi>Acts</hi> 28. 3. was not an In<g ref="char:EOLhyphen"/>feriour Creature; and if so, Whether <hi>Paul</hi> did in no kind hurry, oppress or kill that Creature, when he shook it off into the Fire, as in <hi>verse</hi> 6. And 2<seg rend="sup">ly</seg>, Whether his so doing was any Act of Violence, in any kind, and did wholly proceed from the Wrath of God in Nature, and the very same Root Backbiting doth, <hi>&amp;c?</hi> And seeing <hi>T. T.</hi> saith, as before, <q>Do no violence to <hi>any</hi> Inferiour Creatures, nor in <hi>no</hi> kind op<g ref="char:EOLhyphen"/>press, hurry or <hi>Kill</hi> them.</q>
+            </p>
+            <p>I Query:</p>
+            <p n="1">1. Why then doth <hi>T. T.</hi> give nine Receipts, or prescribe nine se<g ref="char:EOLhyphen"/>veral ways how to kill Buggs and Fleas? Or doth <hi>T. T.</hi> account them no kind of Inferiour Creatures? If so, let him prove it: but if other<g ref="char:EOLhyphen"/>wise, why doth <hi>T. T.</hi> direct to that which cannot be done, without Acting from the Spring of Wrath? and will not the killing of them, if Creatures, be some kind of Violence? And therein, and in killing (without distinction) consists (saith he) the Kingdom of Satan and Wrath; and killing, and the like Enormities, says he, are the Fruits of Hell; for killing of <hi>any</hi> Creature, saith he, proceeds from the Ori<g ref="char:EOLhyphen"/>ginal Spring of wrath, and in wrath doth Satans Kingdom stand: Why then, say I, doth he direct People, and teach them how they shall bring forth the Fruits of Hell? doth the holy Scriptures or right Reason enjoyn to this?</p>
+            <p>And seeing in his <hi>Call to Wisdom,</hi> so termed, <hi>&amp;c.</hi> p. 68. <hi>T. T.</hi> saith, <q>I am far from the Vanity or rather <hi>Wickedness</hi> of desiring to Start or promote any new Sect or Party, and have no Ambition, to im<g ref="char:EOLhyphen"/>pose my own Dictates on any, further than Holy Scriptures and right Reason enjoyn.</q>
+            </p>
+            <pb n="7" facs="tcp:205482:6"/>
+            <p> From whence I Query,</p>
+            <p n="1">1. Where doth the Holy Scriptures say, <q>If man had kept or con<g ref="char:EOLhyphen"/>tinued in the pure Law of God, and followed the voice and di<g ref="char:EOLhyphen"/>ctates of the Divine Principle, <hi>&amp;c.</hi> he would have been far from killing or eating the Flesh of the Beasts?</q>
+            </p>
+            <p n="2">2. Where doth the Scripture say, <q>That the Blood of Beasts, when they are killeed by a sweet simpathetical Operation calls for vengeance, as <hi>Abels</hi> Blood cryed to the Lord?</q>
+            </p>
+            <p n="3">3. Where doth the Scripture say, <q>Every violent Action and Op<g ref="char:EOLhyphen"/>pression, let it be little or much, or offered unto whatsoever Crea<g ref="char:EOLhyphen"/>ture, does as naturally and spiritually awaken in them and without them, the fierce wrath of God and Nature, as the Blood of Inno<g ref="char:EOLhyphen"/>cent <hi>Abel</hi> did cry and awaken the Lord, whence <hi>Cains</hi> Judgments did proceed?</q>
+            </p>
+            <p n="4">4. Where doth the Scripture say, <q>The Beasts move the Principle of Nature, by a certain sympathetical Operation, which awakens the wrath, and draws down Judgments on the Oppressors?</q>
+            </p>
+            <p n="5">5. VVhere doth the Scripture say, <q>That Flesh and Fish cannot be eaten without violence, and doing that which a man would not be done unto, and making destruction of Gods Creatures?</q>
+            </p>
+            <p n="6">6. Where doth the holy Scriptures say, <q>All kind of violence, whe<g ref="char:EOLhyphen"/>ther towards our Kind, or upon Inferiour Creatures, arises from the awakened wrath in Nature, and that the same doth by <hi>Simile</hi> excite the fierce wrathful Principle, in the man that kills and eats them; and renders him prompt for any Acts of Cruelty or Oppression?</q>
+            </p>
+            <p n="7">7. Where doth the Holy Scripture say, <q>If man had kept his high and illustrious State of that Dominion over the Creatures, he would have been far from killing them, or eating their Flesh; nor have made his Body, which ought to have been the Temple of the Holy Spirit, a Stinking Sepulcher, or common Burial-place, for the Dead Bodies of Beasts? Or where doth it say, that the Noble Faculties of the Soul come to be depraved thereby?</q>
+            </p>
+            <p n="8">8. Where doth the Holy Scripture say, <q>When ever any man does hurt, oppress, kill, or speak evil of any other Creature, it proceeds from this Original Spring of Wrath?</q>
+            </p>
+            <p n="9">9. Where doth Holy Scripture say, <q>Do no Violence to any Inferiour Creature; nor in no kind hurry, oppress or kill them, nor eat the Blood or Flesh of Beasts; that so they may avoid the Incorporating of the Bestial Savage and Sensual Properties?</q>
+            </p>
+            <p n="10">10. Where doth the Holy Scriptures say, <q>The greatest excel<g ref="char:EOLhyphen"/>lency,
+<pb n="8" facs="tcp:205482:7"/> and common virtue of mens eating much Flesh and Fish, is, That it makes them Surly, Robustick, Sordid, and of cruel inhumane Dispositions and Inclinations; it being the most proper for Souldiers, Hunters, Moss-Troopers, and all such as would have the Beastial, Savage Nature strengthen'd and encreased; and have a mind to be Lyons and Devils, not only to their own Kind, but to all other Creatures?</q>
+            </p>
+            <p>And now I shall proceed to give a few Instances out of the Holy Scriptures about eating of Flesh, <hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>The Holy Scriptures Doctrine.</head>
+               <p>
+                  <hi>Gen. 9. 1, 2, 3.</hi> And God blessed Noah and his Sons, and said unto them, Be fruitfull and multiply and replenish the Earth: And the fear of you, and the dread of you shall be upon every Beast of the Earth, and up<g ref="char:EOLhyphen"/>on every fowl of the Air, and upon the fishes of the Sea, into your hands are they delivered; every Moving Thing that liveth, shall be Meat for you, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>And 1 Cor. 10. 25, 26, 27.</hi> Whatsoever is sold in the Shambles, Eat, making no question for Conscience sake; for the Earth is the Lords, and the fullness thereof; and if any of them that believe not, bid you to a Feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for Conscience sake.</p>
+               <p>
+                  <hi>And 1 Timothy 4. 1, 2, 3, 4, 5.</hi> Now the Spirit speaketh expresly, That in the latter times some shall depart from the Faith, giving heed to sedu<g ref="char:EOLhyphen"/>cing Spirits, and Doctrines of Devils, speaking Lyes in hypocrisy; having their Consciences seared as with an hot Iron; forbidding to Marry, and Commanding to abstain from meats, which God hath Created to be received with Thanksgiving of them which believe and know the Truth: for every Creature of God is good, and nothing to be refused, if it be received with Thanksgiving, for it's sanctified by the Word of God and Prayer.</p>
+               <p>And now I shall collect some of <hi>T. T</hi>'s Doctrine, that the Reader may see, read, hear, try, Judge of both, and which is most according to Truth: Also whether his Doctrine or Dictates be according to what the Holy Scripture or right Reason enjoyns.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>T. Tryons</hi> Doctrine.</head>
+               <p>
+                  <q>Do not eat the Flesh of Beasts; it's neither necessary nor expe<g ref="char:EOLhyphen"/>dient, Flesh and Fish cannot be eaten without violence, and doing
+<pb n="9" facs="tcp:205482:7"/> that which a man would not be done unto; and violence is a Fruit of Hell, and its original Spring is from the dark Fountain of Wrath and Eternal <hi>Woe,</hi> and from the eating of Flesh, <hi>&amp;c.</hi> Many Evils and Mischiefs proceed, it Excites the fierce wrathful Principle, and renders man prompt and ready for <hi>any</hi> Acts of Cruelty or oppres<g ref="char:EOLhyphen"/>sion: And the greatest virtue of mens eating much Flesh, and Fish, is, that it makes them <hi>Surly, Robustick, Sordid,</hi> and of cruel inhumane Dispositions and Inclinations; it being the most proper for <hi>Souldiers, Hunters, Moss-Troopers,</hi> and all such as would have the beastial sa<g ref="char:EOLhyphen"/>vage nature strengthened and encreased, and have a mind to be <hi>Lyons</hi> and <hi>Devils;</hi> not only to their own kind, but all other Creatures. <hi>p.</hi> 339. Had man kept his High and Illustrious state, he would have been far from eating the Creatures Flesh, nor have made his Body, which ought to have been the Temple of the Holy Spirit, a stink<g ref="char:EOLhyphen"/>ing Sepulcher or common Burial-place for the dead Bodies of Beasts, and so avoid the Incorporating of the Beasts Savage and Sensual Pro<g ref="char:EOLhyphen"/>perties, and depraving the noble faculties of the Soul, <hi>&amp;c.</hi>
+                  </q> With more that might be collected. But take this in brief, and observe the Difference betwixt his Doctrine and the Scriptures.</p>
+            </div>
+            <div type="comparison_of_doctrines">
+               <head>A few Comparisons of the Scripture and <hi>Tryons</hi> Doctrine, and a short Animadversion thereon.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>☞ God saith, <hi>Every moving thing shall be Meat for you,</hi> &amp;c.</cell>
+                        <cell>☞ <hi>Tryon</hi> saith, <hi>Do not eat the Flesh of Beasts, Flesh and Fish cannot be eaten without violence,</hi> &amp;c. <hi>Many evils attends the eating of Flesh,</hi> &amp;c. So <hi>T. T.</hi> contradicts <hi>God.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>☞ Christ saith, <hi>Whatsoever thing from without entereth into the</hi> Man, <hi>it cannot defile him, and the</hi> Rea<g ref="char:EOLhyphen"/>son he gives, is, <hi>because it entereth not into his Heart.</hi>
+                        </cell>
+                        <cell>☞ <hi>Tryon</hi> saith, <hi>Eating of much Flesh and Fish makes surly, or sordid, and is most proper for them that have a mind to be Lyons or Devils;</hi> and if their eating makes them such, sure it defiles, and so he contradicts Christ.</cell>
+                     </row>
+                     <row>
+                        <cell>☞ <hi>Paul</hi> saith, <hi>Whatsoever is sold in the Shambles eat,</hi> &amp;c.</cell>
+                        <cell>☞ <hi>Tryon</hi> saith, <hi>Do not eat Flesh; or what's sold in the Shambles, in effect,</hi> and so contradicts <hi>Paul</hi> as well as <hi>God</hi> and <hi>Christ.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:205482:8"/>
+               <head>ANIMADVERSION.</head>
+               <p>Now observe, God hath said, <hi>Every moving thing shall be Meat for you.</hi>
+               </p>
+               <p>And Christ saith, <hi>Whatsoever goeth into a man defiles him not,</hi> &amp;c.</p>
+               <p>And <hi>Paul</hi> saith, <hi>Whatsoever is sold in the Shambles, eat,</hi> &amp;c.</p>
+               <p>
+                  <q>And <hi>Tryon</hi> forbids the eating Flesh, and saith, that Fish and Flesh cannot be eaten without violence; and in effect saith, it defiles the Body, and depraves the faculties of the Soul; and that many Evils proceed from thence.</q> But I shall rather believe God and the Scrip<g ref="char:EOLhyphen"/>tures, and follow Christs Example and his Apostles, than believe <hi>T. T.</hi> or follow his example, contrary to Gods saying, Angels, Christ and his Apostles Example. But <hi>the Spirit speaketh expresly that in the latter times some shall depart from the Faith, giving heed to seducing Spirits,</hi> &amp;c.</p>
+               <p>From whence I Query:</p>
+               <p n="1">1. Whether <hi>Tho. Tryon,</hi> (if he ever knew or was in the true Faith, which stands in Jesus the Author of Eternal Salvation to all them that believe) is not departed from the Faith, and is led by a seducing Spi<g ref="char:EOLhyphen"/>rit, thus to write?</p>
+               <p n="2">2. Whether he, and all they have not given heed to seducing Spi<g ref="char:EOLhyphen"/>rits and Doctrines of Devils, speaking lyes, <hi>&amp;c.</hi> that <hi>forbid the eating of Meat,</hi> which God hath created to be received with thanksgiving?</p>
+               <p>And now Observe,</p>
+               <p n="1">1. <hi>Meat, or every Creature of God</hi> is to be received; that's positive; but how? Why, with thanksgiving: of whom? <hi>Ans.</hi> Of them that be<g ref="char:EOLhyphen"/>lieve and know the Truth, (and the eating of it cannot defile the man, saith Christ:) Wherefore? <hi>Answ.</hi> Its sanctified, <hi>&amp;c.</hi> So that it's clear by the afore recited <hi>Scriptures</hi> and right Reason, that every Creature of God is good, and <hi>nothing</hi> to be refused; <hi>If,</hi> mind the condition, <hi>if it be received with thanksgiving:</hi> So that this makes void that notion or conceit that <hi>T. T.</hi> seems to have, That the Creatures were made for mans Admiration, and in no wise to be killed: when in <hi>p.</hi> 63. of his <hi>Way to make all Rich,</hi> &amp;c. he saith, <q>Remember, O Vain man, that the All-wise Creator formed all those Myriads of Creatures for his Glory and thy Admiration, and not that thou shouldest therewith pamper thy Lust.</q> To which I say, Thô a man is not to spend any Green
+<pb n="11" facs="tcp:205482:8"/> Herb, the Fruit of any Tree, or any Beast of the Earth, Fowl of the Air, or Fish of the Sea in excess, and to pamper his ungodly Lusts; yet I Query, Whether he may not receive or eat any of them in tempe<g ref="char:EOLhyphen"/>rance, moderation and the fear of God, and with thanksgiving? And also, whether mans so eating and drinking, is not to the Glory of God, and according to the Apostles Exhortation, 1 Cor. 10. 31? Seeing also Christ saith, Mat. 15. 11. <hi>Not that which goeth into the mouth defileth, but that which goeth out of the mouth, this defileth a man:</hi> and Mark 7. 18. <hi>Jesus saith unto them,</hi> (that is, his Disciples) <hi>Are ye yet without understanding also? Do ye not perceive, that whatsoever thing from without entreth into the man, it cannot defile him, because it entreth not into his heart, but into the belly; and goeth out into the Draught, purging all meats?</hi> And he saith, <hi>That which cometh out of a man defileth a man:</hi> See also Mat. 15. 17, 18, 19. verses; also Mark 7. 21, 22, 23. <hi>For out of the heart proceed evil thoughts, Murthers, Adulteries, Fornications, Theft, False-witness, Blasphemies; these are the things that defile a man; but to eat with unwashen hands defileth not a man:</hi> Nor that Meat which entreth into him, being received as be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Now having Collected some Sayings of <hi>God, Christ,</hi> the <hi>Holy Spirit,</hi> and <hi>Scriptures,</hi> concerning the Eating of Flesh and Fish; shewing how that both <hi>Christ Jesus, Angels of God,</hi> and the Holy <hi>Apostles,</hi> eat Flesh:</p>
+               <p>Now I desire my foregoing Queries may he answered (if at all) in the words of Scripture, or such the Holy Ghost teacheth; as I desire also these following Queries may: Which is,</p>
+               <p>First, Whether any that truly believe in God, and Christ Jesus, and the holy Spirit; can be thereby led to affirm, that the Eating Meat, Fish or Flesh, in moderation, in the fear of God, and with Thanksgiving, is sinful and unlawful in any Case whatsoever?</p>
+               <p>Secondly, Whether all them that Command, Teach or forbid to abstain from all Flesh or Meat, as being so principled, and judge the eating thereof in any wise evil, sinful, unlawful, and contrary to a pure Conscience; do not thereby bespeak their own Consciences to be seared therein, and departed from the Truth, and manifest their ignorance of God, Christ, the Holy Spirit and Scriptures of Truth, in a very large manner?</p>
+               <p>And now <hi>T. T.</hi> further saith, <hi>p. 350. There is no Creature in the
+<pb n="12" facs="tcp:205482:9"/> world, that has</hi> any <hi>desire to eat flesh,</hi> &amp;c. <hi>except those in whom the fierce, wrathful, Savage Native does predominate.</hi>
+               </p>
+               <p>Now Observe:</p>
+               <p>He either saith true or false, if true, he hath brought a Judgment over all them living, that desire to eat Flesh, (though it be in tempe<g ref="char:EOLhyphen"/>rance, moderation and the Fear of God, and with Thanksgiving) <q>As being such, in whom, as his Phrase is, the fierce, wrathful, Savage Nature predominates; and in the said page he said, So now he is, and does exceed in uncleanness, and Cruelty the worst of Beasts, as much as a Sparrow-hawk exceeds a Titmouse; and what he saith are fruits of such in whom the Hellish Principle sway, see 403.</q> To wit, Backbiting, Hatred, <hi>&amp;c.</hi> and working all sorts of Impiety. So he hath at once Unchristianed (as much as he can) all <hi>Christen<g ref="char:EOLhyphen"/>dom,</hi> and every sort of People therein, how pious, virtuous and tem<g ref="char:EOLhyphen"/>perate soever they are, if they desire to eat Flesh, (though in mo<g ref="char:EOLhyphen"/>deration, the Fear of God, and with Thanksgiving, for he makes no exception) they cease to be Christians, and come under the Govern<g ref="char:EOLhyphen"/>ment of the wrathful Nature, or Hellish Principle. <hi>O Monstrum Horrendum!</hi> And in p. 368. he saith, <q>Flesh cannot be procured, without oppressing the way of God in Nature, and causing the Creatures to sigh and groan, and cry to be delivered into the Glorious Liberty of the Sons of God; and this keeps the fierce wrath in motion, and causeth it to break forth upon them in many and great Calamities.</q> But pray where doth the Scripture so say? or that Lambs, Sheep, Calves, Oxen, cry to be delivered into the Glori<g ref="char:EOLhyphen"/>ous <hi>Liberty of the Sons of God?</hi> and what are the Calamities that are brought on man, only for killing for necessary Food, <hi>&amp;c.?</hi> So much for eating of Flesh. Now hear what he saith about Killing, in <hi>page</hi> 402. of the said Book, Intituled, <hi>The way to Health, &amp;c.</hi>
+               </p>
+               <p>
+                  <q>Touching all sighting, oppressing and killing, let it be little or much, and the pretence what it will,</q> [Mark, <hi>what it will though for food &amp;c.</hi>] <q>We affirm from a true light and ground, that the same do arise and proceed from the fierce wrath of God, and from the Devilish Hellish Nature in man; which is contrary to the Friendly Love and Light of God in Jesus Christ, as the Night is to the Day.</q>
+               </p>
+               <p>Now Observe:</p>
+               <p>So all Butchers, Poulterers, Fisher-men, and all that kill, <hi>&amp;c.</hi> let the pretence be what it will, or the Creature what it will <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> killed; for there's no exception made: <hi>T. T.</hi> saith, We affirm as <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> foresaid. But pray who must make up the <hi>We?</hi> can <hi>T. T.</hi> produce
+<pb n="13" facs="tcp:205482:9"/> any other of that mind but himself; from a True light, <hi>&amp;c?</hi> But what is that he calls so? Doth he not put Light for Darkness? And what <hi>Scripture</hi> proof, or found Reason shall we have, that kil<g ref="char:EOLhyphen"/>ling a Lamb, <hi>&amp;c.</hi> is contrary to the Light of God in Christ, as the Night is to the Day; and that none that so do, can be true Christians, or Sons or Daughters of God, or led by his Spirit? though they live both soberly, <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ly, and godly, in (as I in Charity believe) many Butchers and Fisher-men do; yet if they kill, let the pretence be what it will, is for Food, <hi>&amp;c.</hi> their so doing is contrary to the Love and Light of God in Christ, saith <hi>T. T.</hi> And then sure they do not walk in the Light, that act contrary to it: and <hi>John</hi> saith, <hi>The Nature of <gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> one saved, shall walk in the Light of the Lamb,</hi> which is Christ Jesus: So the consequence of his Doctrine is, No Butchers, Fisher-men, or Poulterers, such that a<g ref="char:EOLhyphen"/>ny kind, and for any pretence kill, can be saved, unless they leave their killing Occupations and practice therein: And how many Maid Servants then, if this were true, when they go to dress Flounders, Grigs, which are often alive, or kill Chickens, conduct contrary to the friendly Love and Light of God in Christ; but what Scripture proof and found Reason can he give for the same? or doth he think his Affirmation, or confident Say-so, ushered in with a <hi>We,</hi> as he often doth, must go for proof? And seeing he saith (as I shewed before) <q>That he is far from the vanity, or rather wickedness, of desiring to start or promote any new Sect or Party, and hath no ambiti<g ref="char:EOLhyphen"/>on to impose his own Dictates on any, further than holy Scrip<g ref="char:EOLhyphen"/>ture and right Reason enjoyns:</q> Let's have a proof to shew, right Reason and the holy Scriptures enjoyns people not to kill a Lamb, or a Chicken, nor to eat in moderation, and in the Fear of God, and receive them with Thanksgiving: and let <hi>T. T.</hi> prove, that his Affirmation is from a true light and ground, and demonstrate the light and ground <hi>such</hi> by holy Scripture and right Reason. Again observe, according to his Doctrine, all that die in this savage, bruit<g ref="char:EOLhyphen"/>ish slate, in which he concludes them that desire to eat Flesh, or that kill little or much, and the pretence what it will, (if for food, <hi>&amp;c.)</hi> shall in the Resurrection, saith he <hi>p.</hi> 444. <q>Be invested with a new body, attract such matter out of all things, as their Spi<g ref="char:EOLhyphen"/>rits are capable of, and have a <hi>Simile</hi> with, and so appear in Forms <hi>Hideous, Frightful</hi> and <hi>Loathsome.</hi>
+                  </q> But where doth the Scripture so say, or speak of being Cloathed with Hellish shapes in the next World? And in <hi>p.</hi> 445. see what comparisons he
+<pb n="14" facs="tcp:205482:10"/> makes about eating Flesh, and killing the Beast, tho' for Food; and he there saith, <q>In a word, there is nothing that is pleasant or friend<g ref="char:EOLhyphen"/>ly in the whole Business, nor any one Circumstance that is grate-to the innocent Principle in Man.</q> So the Killing the Creatures for Food, and eating of them as the Scripture directs, he saith, is un<g ref="char:EOLhyphen"/>gratefull to the innocent Principle, or Love and Light of God in Christ, (as his Phrase is) as the Night is to the Day.</p>
+               <p>Now seeing according to <hi>T. T</hi>'s Doctrine, no Creature can be Killed, but by them in whom the wrathful Nature is predominate, <hi>&amp;c.</hi> and that Killing is a Fruit of Hell; and such that live and dye in the savage bruitish State, are like to be cloathed with hellish shapes in the Resurrection, or next World: And seeing he in the <hi>Cow</hi>'s and <hi>Oxen</hi>'s <hi>Complaint,</hi> makes them say to <hi>cruel</hi> and <hi>hard-hearted Man,</hi> (as he phra<g ref="char:EOLhyphen"/>ses it) who he makes the Beasts call, a <hi>Destroyer,</hi> a <hi>Killer,</hi> a <hi>daily Pra<g ref="char:EOLhyphen"/>cticer of Cruelty,</hi> &amp;c. in <hi>p.</hi> 496. And in <hi>p.</hi> 501. he maketh them say of Man, <q>How they are beat without Pity or Humanity; and at last, when we are able to do their Drudgery no longer, they being not yet satisfyed with our Labours, will fatten us up for the Slaugh<g ref="char:EOLhyphen"/>ter, and feast themselves with our Carkasses, and accommodate them<g ref="char:EOLhyphen"/>selves with our Skins for Leather, to make them Shoes, Boots, and other Necessaries.</q>
+               </p>
+               <p>Now I Query, Whether <hi>T. T.</hi> doth not so accommodate himself, and wear Shoes and Boots made of their Skins? and whether he hath not several Necessaries made thereof, and of the Skins of other Crea<g ref="char:EOLhyphen"/>tures? And whether he doth not wear the Skins of the innocent Sheep and Lambs, or of Calves, over his Skin, to keep his hands warm in Winter, and from the scorching heat in Summer, and his feet from the wet Dirt, and hard Stones? And whether he doth not Trade, Mer<g ref="char:EOLhyphen"/>chandize, or deal in the Skins of Beasts, and get Gain and Money by the same, tho' slain by the wrathful Nature, (as he saith,) which is a Fruit of Hell? And whether his so doing, as aforesaid, is from the friendly Principle of Love? Or whether he is not guilty of that he makes the Beasts complain of? And whether the Beasts will not send up their Complaints against him in a silent Eloquence to Heaven? From whence can he expect any Return, but Showers of Judgments upon his Head, (as he makes the Beast say in <hi>p.</hi> 503.) for his wearing their Skins, <hi>&amp;c.</hi> And what shape must he have in the other World for so accommodating himself, and trading in their Skins?</p>
+               <pb n="15" facs="tcp:205482:10"/>
+               <p>But to draw to a Conclusion, and to pass by many things that I have forborn speaking to, I shall now take Notice of one Passage more in his <hi>Way to Health, &amp;c.</hi> (as he calls it,) <hi>p.</hi> 669, or last Page, it being, he saith, the scope of his whole Treatise: <hi>Viz.</hi>
+               </p>
+               <p>
+                  <q>It is highly necessary for every one to study the Knowledge of <hi>himself,</hi> that he may understand the differences of Spirits, and from what Fountain or Property every Thought, Word and Work does proceed; and to recommend and promote such self-study and Heart-knowledge, is the scope of this whole Treatise.</q>
+               </p>
+               <p>Now how far <hi>T. T.</hi> hath answered that which he saith is the whole scope of his Treatise, I shall leave to those who by reason of use, have their Senses exercised to discern both good and evil: Only I desire all may truly and duly weigh, and seriously consider of his Doctrine, (which I have in some measure collected, and made some few Que<g ref="char:EOLhyphen"/>ries on;) that so none may any further receive his Doctrine, than it answers unto the Truth, that's one in all, and the holy Spirit of God, (a measure of which is given to every one to profit with) and is agreeable to the Holy Scriptures, which are able to <hi>make the man of God wise unto Salvation, through Faith which is in Christ Jesus,</hi> and were written by holy Men of God, as they were moved by the Holy Ghost; which Holy Ghost or Spirit, God in these Gospel-dayes hath <hi>poured forth</hi> according to his Promise, <hi>Joel 2. upon all Flesh;</hi> with which therefore every one that comes to have their minds truly exercised towards God, do and may discern from what Fountain <hi>T. T</hi>'s words and works pro<g ref="char:EOLhyphen"/>ceeds, and see the Difference of the true Spirit and the false; tho' the false may, as it mostly hath, many fair Pretences, and Fig-leave like Coverings, such that will soon sail, and prove too narrow; for they are like the Covering of those Rebellious Children that <hi>took Coun<g ref="char:EOLhyphen"/>sel, and not of the Lord;</hi> see <hi>Isaiah</hi> 30. 1. And tho' they who are gui<g ref="char:EOLhyphen"/>ded by this false Spirit, may, and often do, (like the Doctors by their bitter Pills, gild them over, that they may be the easilyer ta<g ref="char:EOLhyphen"/>ken;) so <hi>T. T.</hi> under a specious pretence of Temperance, and call<g ref="char:EOLhyphen"/>ing her the <hi>Offspring of Heaven,</hi> and twenty plausible Names; may there<g ref="char:EOLhyphen"/>by, and his fair Speeches, deceive the Hearts of the simple, and such that are lyable to be <hi>tossed with every wind of Doctrine:</hi> But those that have re<g ref="char:EOLhyphen"/>ceived the <hi>true Annointing,</hi> and keep thereto, need not go to <hi>T. T.</hi> to learn Piety, Temperance, Moderation, <hi>&amp;c.</hi> for the same <hi>Anointing</hi> which they have received, is able to teach them both how to Eat and Drink,
+<pb n="16" facs="tcp:205482:11"/> even to the Glory of God; and to be sober, temperate, tender, com<g ref="char:EOLhyphen"/>passionate, and merciful even to the Beasts; and <hi>hath so taught many <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> before his Book was extant:</hi> In a word, it <hi>teacheth them</hi> (that keep to it) <hi>all things,</hi> as the Apostle said to the Believers, 1 <hi>Joh. 2. 27. The Anointing which ye have received of him, abideth in you, and ye need not that any man teach you, but as the same Anointing teacheth you of</hi> all things, <hi>and is truth, and is no Lie; and even as it hath taught you, ye shall abide in him:</hi> And blessed are they that so do, that is, <hi>abide in him, even as he hath taught them:</hi> and those will never follow the idle Conceits and vain Imaginations of <hi>T. T.</hi> who manifests himself not to be taught by the <hi>Anointing,</hi> in forbidding the Eating of Flesh, <hi>&amp;c.</hi> and is therein out of the Practice and Doctrine of Christ and his Ho<g ref="char:EOLhyphen"/>ly Apostles, and goes contrary to the Testimony of the Holy Scrip<g ref="char:EOLhyphen"/>tures: But let every one consider this, especially such that under a pretence of Conscience, and being led thereto by the Spirit; eat no Flesh, and command to <hi>abstain from Meats,</hi> Whether the Spirit of God doth lead into that which is wholly inconsistent with, and contrary to the holy Scriptures of Truth; and what the holy Ancients, Christ Jesus, and his Apostles and Followers practised: <hi>T. T.</hi> saith also, <q>It is highly necessary for every one to study the Knowledge of him<g ref="char:EOLhyphen"/>self; and to recommend and promote such self-study and Heart-Knowledge, is the scope of his whole Treatise:</q> But pray what Relation to the Knowledge of a man's self, and the true heart-saving Knowledge of God, which is Eternal Life, is the <hi>Discourses of Beasts, and their Diseases; and what Virtues and Vices they are subject to; and of Mangie Diseases, the Complexion of Oxen, and other Beasts; the Excellency of Butter, Cheese, and Milk-Pottage, and the proper and most natural way of boyling, roast<g ref="char:EOLhyphen"/>ing, baking, stewing, frying and broiling</hi> that, which (if <hi>T. T.</hi> saith true) he that rightly knows himself, and is under the friendly Principle of Love and Light, cannot desire to eat, to wit, Flesh; <hi>and when they may eat it with least danger;</hi> (whenas they could not eat it at all, saith he, if the <hi>fierce</hi> wrathful Nature did not predominate)? Again, he tells of <hi>Cloath<g ref="char:EOLhyphen"/>ing Horses, and Beds; of Plumb-Cakes, Bread-Puddings, and Mince-Pyes; of Women, their Nature, Complexions, and Intemperances; the Astrological gathering of Herbs, the Deceitfulness of Doctors, their Bills: Of Bugs; and from what Matter or Aliment they do proc<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed; how to kill them: Of Pain in the Teeth, and how to cure Wounds:</hi> These, I believe, and forty such like stories, is the Scope of his Book; and yet he saith, the Scope of his whole Book, or Treatise, is to promote self and Heart-know<g ref="char:EOLhyphen"/>ledge: But whether it be any more than his empty <hi>Say so,</hi> I shall
+<pb n="17" facs="tcp:205482:11"/> leave the truely wise to judge, that have or may see or read his Book. Also, if it is not rather his Scope, or Tendency of his Book, to beget unstable People into Whimsies and Conceits, and to draw their Minds and Hearts by his windy empty Doctrine and Popperies, from that Inspiration of the Almighty that will give them Understanding, and the Knowledge of themselves, and of God, and Christ; the <hi>most</hi> excellentest Knowledge, the most pure, sound and solid Knowledge, that which doth not <hi>puff up,</hi> nor make any, like Fools, wise in their own Conceits: They that have this Knowledge, and are endued there<g ref="char:EOLhyphen"/>with, they will <hi>Forsake the foolish, and live, and go in the way of Ʋnder<g ref="char:EOLhyphen"/>standing;</hi> as saith <hi>Solomon, Prov.</hi> 9. 6. which is the way Wisdom leads in, who saith, <hi>I lead in the way of Righteousness, and in the midst of the Paths of Judgment:</hi> And they that follow her here, and judge down all idle and vain Imaginations with the Spirit of Wisdom, and love her, them she will cause to <hi>inherit Substance,</hi> and will <hi>fill their Trea<g ref="char:EOLhyphen"/>sures.</hi> And this is the Wisdom which is profitable to direct, and is <hi>justifi<g ref="char:EOLhyphen"/>ed of her Children:</hi> And tho' Death, and they that are therein may speak of the Fame thereof, yet they are ignorant of her; for it's the <hi>Righ<g ref="char:EOLhyphen"/>teous the Lord layeth up sound Wisdom for, and he is a Buckler to them that walk uprightly: He keepeth the paths of Judgment, and preserveth the way of his Saints:</hi> and tho' the <hi>Simple inherit Folly,</hi> yet the <hi>Prudent are Crowned with Know<g ref="char:EOLhyphen"/>ledge,</hi> which the <hi>Fear of the Lord is the Beginning</hi> of: Therefore blessed are they that are come thereto, and that live therein: The Scriptures abound with the Promise of Blessings on such; and, <hi>that man that fear<g ref="char:EOLhyphen"/>eth the Lord, him will the Lord lead in the way that he shall choose:</hi> And, <hi>his Soul shall be at ease, and his Seed shall inherit the Earth:</hi> And these will resrain their feet from every evil way, that they may keep Gods Word, and will not be led away into vain Conceits, and whimsical Ima<g ref="char:EOLhyphen"/>ginations, like them that know not God, Christ Jesus, the Holy Spirit, nor Scriptures of Truth; but are like them Christ spoke to, saying, <hi>Ye Err, not knowing the Scriptures, nor the power of God,</hi> Mat. 22. 29. As it may be truly said of <hi>T. T</hi>'s. Doctrine, which is against kill<g ref="char:EOLhyphen"/>ing the Creatures, and Eating their flesh, <hi>&amp;c.</hi> of which it may be said as followeth</p>
+               <lg>
+                  <pb n="18" facs="tcp:205482:12"/>
+                  <l>What God to Man Commandment gave to doe, <note place="margin">See Exod. 12. <hi>vers.</hi> 1, 2, 3, 4, 5, 6.</note>
+                  </l>
+                  <l>Proceeds from Wrath, and from Eternal Woe,</l>
+                  <l>If <hi>Trion</hi> we believe; for he doth tell,</l>
+                  <l>To kill a Lamb, it is a fruit of Hell:</l>
+                  <l>Eat not the flesh of Fish, nor Beast, saith he,</l>
+                  <l>For that an Act of Violence will be.</l>
+                  <l>But Christ eat both, in Holy Writ we read; <note place="margin">Luk. 24. 42, 43. &amp; 22. 14, 15. Matth. 26. 21.</note>
+                  </l>
+                  <l>
+                     <hi>Trion</hi>'s forbidding then, let no man heed.</l>
+               </lg>
+               <lg>
+                  <l>'Tis God to man divine Dictates doth give,</l>
+                  <l>And teach him, how to Eat, and how to Live,</l>
+                  <l>By that which comes from Christ, the Ʋnction true, <note place="margin">1 Joh. 2. 20. 27.</note>
+                  </l>
+                  <l>Receiv'd within, which all things plain will shew:</l>
+               </lg>
+               <lg>
+                  <l>Bless'd is the man that doth its teachings keep, <note place="margin">2 Tim. 4. 3.</note>
+                  </l>
+                  <l>He ne'r such Teachers to himself will heap,</l>
+                  <l>That doth command from Meats for to abstain, <note place="margin">1 Tim. 4. 1, 2, 3, 4.</note>
+                  </l>
+                  <l>And from what God ordained to refrain;</l>
+                  <l>Whieh with Thanksgiving all ought to receive</l>
+                  <l>That know the Truth, and in the Truth believe.</l>
+               </lg>
+               <lg>
+                  <l>What's then the Cause? and what's the Reason why,</l>
+                  <l>Eating of Flesh he doth so much decry?</l>
+                  <l>The Reason's plain, the matter lieth here,</l>
+                  <l>Because he wants an understanding clear;</l>
+                  <l>Which that he may obtain, to God I pray, <note place="margin">1 Tim. 2. 1, 2, 3.</note>
+                  </l>
+                  <l>That he may know the Truth, and it obey.</l>
+               </lg>
+               <lg>
+                  <l>And he that seeks for Truth, and doth it find,</l>
+                  <l>Should in it daily exercise his mind, <note place="margin">Eph. 4. 14, 15.</note>
+                  </l>
+                  <l>And not be toss'd, and hurried to and fro</l>
+                  <l>With every wind of Doctrine that doth blow;</l>
+                  <l>But like the Wheat, that weighty is and sound, <note place="margin">Matth. 3. 12.</note>
+                  </l>
+                  <l>Should in Christ's Garner day by day be found; <note place="margin">Luke 3. 17.</note>
+                  </l>
+                  <l>And live, and walk and keep in him that's true,</l>
+                  <l>And to such idle Fictions bid adieu.</l>
+               </lg>
+               <p>And now I query of <hi>T. T.</hi> about the Verses printed and prefixed be<g ref="char:EOLhyphen"/>fore his Book, intituled, <hi>The way to make all people Rich,</hi> &amp;c. made, as it's
+<pb n="19" facs="tcp:205482:12"/> said, on the Author of that Excellent and Learned Book, Entituled, <hi>The Way to Health, long Life and Happiness.</hi>
+               </p>
+               <p n="1">1. It's said thus;—</p>
+               <lg>
+                  <l>E're that Ingratitude in Man was found,</l>
+                  <l>His Mother Earth with Iron Plows to wound.</l>
+               </lg>
+               <p>Now I Query, Whether <hi>T. T.</hi> accounts it Ingratitude in Man, and a-wounding of the Earth, to Plow, Dress or Till the Earth; seeing God both before and after the Fall, gave Man Direction so to do, and put him into the Garden for that end? See <hi>Gen.</hi> 2. 15. and 3. 23.</p>
+               <p n="2">2. Is the <hi>Way to make all People Rich,</hi> to leave off Plowing, <hi>&amp;c?</hi>
+               </p>
+               <p n="3">3. If the Earth is not plowed, or wounded, (as the Phrase is) how shall we have Corn to make Bread, or Water-Gruel?</p>
+               <p>Again it's said;—</p>
+               <lg>
+                  <l>When unconfin'd, the spacious Plains produc'd</l>
+                  <l>What Nature crav'd, and more than Nature us'd.</l>
+               </lg>
+               <p>
+                  <hi>Query.</hi> Did the Plains, without Plowing or Tilling, produce what Nature craved, and more than Nature used; as Bread-Corn, Oats, <hi>&amp;c?</hi>
+               </p>
+               <p>Again;—</p>
+               <lg>
+                  <l>What are the Plagues that o're this Nation reign,</l>
+                  <l>That has so many threescore thousands slain?</l>
+               </lg>
+               <p>Is it the eating Flesh and Fish in Moderation, and in the Fear of God, and with Thanksgiving, and the killing them for that end? are these the Plagues that reign over this Island, that have slain so many threescore thousands.</p>
+               <p>Again,—</p>
+               <lg>
+                  <l>Till <note n="*" place="margin">That's <hi>Th. Tryon.</hi>
+                     </note> You, the saving Angel whose blest Hand</l>
+                  <l>Has sheath'd the Sword that threaten'd half the Land.</l>
+               </lg>
+               <p>
+                  <hi>Query.</hi> Is <hi>T. Trion</hi> this saving Angel? And will he own that his Hand is blest, and hath sheathed the Sword that threatened half the Land? If not, why did he suffer these things to be printed of him?</p>
+               <p>Again the Verses go on, praising him thus:</p>
+               <lg>
+                  <l>More than a Parent, <hi>Sir,</hi> we you must own;</l>
+                  <l>They give long Life, but you prolong it on.</l>
+               </lg>
+               <p>
+                  <hi>Query</hi> 1. What! will <hi>T. T.</hi> own he is more than a Parent? And who are the <hi>We</hi> that must so own him?</p>
+               <p n="2">2. Doth <hi>T. T.</hi> prolong Life on?</p>
+               <p>Again;—</p>
+               <lg>
+                  <l>
+                     <note n="*" place="margin">That is <hi>Tho. Trion.</hi>
+                     </note> You an Innocent Power with Heaven do shew,</l>
+                  <l>Give us long Life, and lasting Vertue too.</l>
+               </lg>
+               <p>
+                  <hi>Query</hi> 1. What is the innocent Power <hi>T. T.</hi> shews with Heaven? And who must say, Give us long Life, and lasting Vertue too? And to whom must they so say? to <hi>T. T?</hi>
+               </p>
+               <p>Again;—</p>
+               <lg>
+                  <l>Such were the Mighty Patriarchs of old,</l>
+                  <l>Who God in all his Glory did behold.</l>
+               </lg>
+               <pb n="20" facs="tcp:205482:13"/>
+               <p>
+                  <hi>Query.</hi> Is <hi>T. T.</hi> such as the Mighty Patrlarchs were, who beheld God in all his Glory? And hath <hi>T. T.</hi> so beheld him?</p>
+               <p>Again;—</p>
+               <lg>
+                  <l>Inspir'd like <note n="*" place="margin">Trion.</note> You, they Heaven's Instructions show'd,</l>
+                  <l>And were as Gods amidst the wondering Crowd.</l>
+               </lg>
+               <p>
+                  <hi>Query.</hi> Is <hi>T. T.</hi> Inspired like the Mighty Patriarchs of old? And hath he shewed Heaven's Instructions like them? And is he as a God Among the wondering Crowd?</p>
+               <p>Again;—</p>
+               <lg>
+                  <l>Not he that bore th' Almighty Wand could give</l>
+                  <l>Diviner Dictates how to Eat and Live.</l>
+               </lg>
+               <p>
+                  <hi>Query</hi> 1. Who was this that bore the <hi>Almighty Wand,</hi> and that could not give Diviner Dictates than <hi>T. T.</hi> how to Eat and Live?</p>
+               <p n="2">2. Can <hi>T. T.</hi> admit of such matters to be printed in his praise? It seems he hath.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <p>THere is another Book by the same Author, or <hi>Thomas Trion,</hi> Entituled, <hi>The Country-man's Companion,</hi> &amp;c. Subscribed, <hi>Phi<g ref="char:EOLhyphen"/>lotheos Physiologus;</hi> and said to be printed and sold by <hi>An<g ref="char:EOLhyphen"/>drew So<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>le, &amp;c.</hi> which, I conceive, hath been a great means to promote the Sale of his Books; as a good Name many times helps off with that which is not really good; and a smart or smooth Ti<g ref="char:EOLhyphen"/>tle sometimes makes a Book sell, when the Matter or Subject is scarce worth reading: And I have good ground in Charity to think, that had <hi>A. S:</hi> seen, and been truly sensible of <hi>T. Trion</hi>'s Errours and Ab<g ref="char:EOLhyphen"/>surdities, and ill tendency of his Books, he would not have printed and exposed them as he did: As also of his Reflections upon the Chri<g ref="char:EOLhyphen"/>stians
+<pb n="21" facs="tcp:205482:13"/> in his feigned or fictious Complaint of the Birds to their Cre<g ref="char:EOLhyphen"/>ator; particularly against the People called Christians, lately settled in several Provinces in <hi>America;</hi> who he charges with bringing En<g ref="char:EOLhyphen"/>gins of War, Cruelty and Blood-shed; as <hi>Guns, Swords, Powder,</hi> &amp;c. And in <hi>p.</hi> 143. and 144. of the abovesaid Book, where he makes them say, or rather feigns their saying,—Thus:</p>
+            <p>
+               <q>[We are more especially astonisht, to meet with these Usages from those that call themselves Christians; who of late years have found out, and settled themselves in the Regions and Countries of <hi>America,</hi> where before their Arrival we lived in a very great de<g ref="char:EOLhyphen"/>gree of Freedom and Security: But now by this new Neighbour<g ref="char:EOLhyphen"/>hood of those from whose Profession we might promise our selves nothing but Love and good Will, our Condition is much alter'd for the worse; our Danger and Destruction is daily encreased, and to kill and murder us is become an Occupation and a Trade; for which purpose these <hi>Peaceable Christians,</hi> as they would be counted, have brought with them all kinds of Snares, and Engines of War and Violence, which never had before been seen, nor their fright<g ref="char:EOLhyphen"/>ful hellish noises heard in our Coasts. Now how absurd is it for those who fly from Violence in one place, to begin it themselves on the innocent in those places where they take shelter? How much below the Dignity of a Man are those Cruel and insidious Practi<g ref="char:EOLhyphen"/>ces? How forreign from, and contrary to the Doctrine of that Chri<g ref="char:EOLhyphen"/>stianity which you profess? where it's expresly declared, that <hi>Who<g ref="char:EOLhyphen"/>soever useth the Sword, shall perish by it:</hi> That is to say, He that by any kind of Violence doth awaken the Center of Wrath in him<g ref="char:EOLhyphen"/>self, shall be precipitated into it. And therefore your most holy Prophet, the <hi>first-born of the Sons of God,</hi> &amp;c. saith, <hi>My Kingdom is not of this World, for then would my Servants sight:</hi> That is, My Kingdom, and that State whereunto I bring my Disciples, does not consist in Wrath, Violence or Oppression, <hi>&amp;c.</hi>
+               </q> Thus far <hi>T. T.</hi> or <hi>Philotheos Physiologus.</hi>
+            </p>
+            <p>Now pray let me Query, Whether he doth not reflect upon the peaceable Christians therein?</p>
+            <p n="1">1. In saying, <q>Those that call themselves Christians.</q>
+            </p>
+            <p n="2">2. Whether he doth not thereby suggest they are not Christians in Truth and Reality?</p>
+            <p n="3">3. In saying, <q>Those from whose Profession we might promise our
+<pb n="22" facs="tcp:205482:14"/> selves nothing but Love and good Will;</q> whether he doth not there<g ref="char:EOLhyphen"/>by render them void of both to their new Neighbour-hood (as his Phrase is)?</p>
+            <p n="4">4. Doth he not render them Destroyers and Murtherers; and such that make an Occupation thereof? <q>For which purpose, saith he, these <hi>peaceable Christians,</hi> as they would be counted;</q> [mark,] as they would be counted.</p>
+            <p n="5">5. Doth he not hereby, as before, plainly demonstrate, that he doth not so account them; or that they are not such as accounted? For indeed, according to his Principle and Doctrine, they are <hi>Mur<g ref="char:EOLhyphen"/>derers;</hi> and the Scripture saith, <hi>No Murderer hath Eternal Life abiding in him:</hi> Neither can enter into God's Kingdom as <hi>such;</hi> neither in<g ref="char:EOLhyphen"/>deed can be a Christian while <hi>so.</hi>
+            </p>
+            <p n="6">6. According to his Account they commit Violence, which is a Fruit of Hell, saith he: They kill also; and that he affirms proceeds from the fierce Wrath of God, <hi>&amp;c.</hi> and is contrary to the Love and Light of God in Jesus Christ, as the Night is to the Day, (tho' but a Fish or Bird; <hi>&amp;c.)</hi> and therefore it will follow, such that act so contrary to the Love and Light of God in Christ, can't be Christi<g ref="char:EOLhyphen"/>ans while they so do. And,</p>
+            <p n="7">7. He goeth on in his Complaint, saying, <q>They (that is, these peaceable Christians, as they would be counted) have brought with them <hi>all</hi> kind of Snares and Engines of War and Violence, <hi>&amp;c.</hi>
+               </q> That is, to catch and kill Birds, <hi>&amp;c.</hi> for necessary Food.</p>
+            <p>Note, and then he saith, <q>How absurd is it for those that fly from Violence in one place?</q> [mark,] he here renders them as such that fly from Violence.</p>
+            <p n="8">8. He charges them with <q>Beginning it on the Innocent in those places where they take shelter. How much below the Dignity of a Man are those cruel and insidious Practices! saith he; how for<g ref="char:EOLhyphen"/>reign from, and contrary to the Doctrine of that Christianity which you profess!</q> where it is expresly declared, That <hi>whoever useth the Sword shall perish with it.</hi>
+            </p>
+            <p>Now Reader, observe, how well, truly and excellently, or rather, illy, untruly and ignorantly <hi>T. Trion</hi> hath applyed, or grosly misap<g ref="char:EOLhyphen"/>plyed the Text: For <hi>Gen.</hi> 9. 6. it's said, <hi>Whoso sheddeth Man's Blood, by Man shall his blood be shed; for in the Image of God made he Man:</hi> And, <hi>Mat. 26. 52. Then Jesus said unto him,</hi> (that is, <hi>Peter,</hi> who with his Sword had smote off the High-Priest's Servant's Ear,) <hi>put up again thy Sword into his place; for all that take the Sword, shall perish with the Sword.</hi>
+            </p>
+            <pb n="23" facs="tcp:205482:14"/>
+            <p>Now mind: It doth not say, he that kills a Fish, a Bird, or Beast, that by Man his Blood shall be shed; neither doth the Scripture say, Fishes, Birds and Beasts, were made in the Image of God; which seems to be the reason of that Precept: And again, <hi>All that take the Sword shall perish with it;</hi> that is, take it to destroy, kill, murder Man, that was made in the Image of God; these shall perish with it: But doth T. T. believe, that if a Man with a Sword or Gun shall kill a Bird or Deer for necessary Food, that he ought to perish by or with the Sword for so doing? And how absurd is it for T. T. that takes up<g ref="char:EOLhyphen"/>on him to teach so many things, and to be so knowing, thus mise<g ref="char:EOLhyphen"/>rably to misapply the Text, and wrest the Holy Scriptures. But some such there were formerly that <hi>erred,</hi> (Mat. 22. 29.) <hi>not knowing the Scrip<g ref="char:EOLhyphen"/>tures, nor the power of God,</hi> and <hi>wrested the holy Scriptures to their own destru<g ref="char:EOLhyphen"/>ction;</hi> see 2 <hi>Pet.</hi> 3. 16, 17, 18. Of whom <hi>Peter</hi> warns the Believers, say<g ref="char:EOLhyphen"/>ing, <hi>Ye therefore, beloved, seeing ye know these things before, beware, lest ye also being led away with the Errour of the wicked, fall from your own stedfast<g ref="char:EOLhyphen"/>ness:</hi> And <hi>grow in Grace, and in the Knowledge of our Lord and Savi<g ref="char:EOLhyphen"/>our Jesus Christ; to him be Glory both now and for ever.</hi> Amen. And had T. T. made it more his business to have answered this Exhortation, than it appears by his Books he hath, and kept from wresting the Scrip<g ref="char:EOLhyphen"/>tures to make them vindicate his Doctrine, Whimsies, Imaginations and Conceits; it would have been more like a Christian, and bespoke him to be one that had regard to the Testimony thereof, and good Exhortations therein: For tho Christ forbad doing Violence to any Man, can T. T. prove he forbid to kill Fish, Fowl, or Beasts? or did account his Disciples and Apostles Murderers; and tell them that they should <hi>perish with the Sword,</hi> because they with their Nets caught the Fish, and also ate them? or did he blame them for it, or for their so using of the Fishes? or did the Fish say, as T. T. makes the Birds say; <q>They were astonisht to meet with such usages from those that called themselves Christians,</q> (or were Disciples of him who said, Do no violence?) or did they complain, and say, <q>They liv'd in a great deal of Freedom and Security, till these Disciples, from whose Profession they might promise themselves nothing but Love and good Will, came with their Nets to catch, kill and murder them? or did they say, These peaceable Disciples Occupation, <hi>&amp;c.</hi> was to kill, murder, and do violence upon them?</q> or did they say as T. T. makes the Birds say (or sayes for them) in <hi>p.</hi> 146. of <hi>Country-man's Companion,</hi> &amp;c. <q>We have not taken away their Privi<g ref="char:EOLhyphen"/>ledges, nor laid Cities and Countries waste: We are not guilty of
+<pb n="24" facs="tcp:205482:15"/> burning of Towns, nor deflowring of Virgins, nor ravishing Matrons, nor of slaying old Men, nor of carrying away Captive the young: We do not gather our selves into Troops to destroy those of our kind; nor have we at any time plundred them, or haled them in<g ref="char:EOLhyphen"/>to loathsom Prisons.</q>
+            </p>
+            <p>But pray by the way, let me Query, Whether many Fish and Fowl don't prey one upon another? as also Beasts? And, Whether the All-wise Creator hath not given them Paws, Bills, <hi>&amp;c.</hi> with an Instinct in Nature so to do? But this by the way.</p>
+            <p>Now I Query, Whether the Fish the Disciples caught, had not as much Cause and reason to complain against the Disciples, as the Birds have against the Peaceable Christians in <hi>Pensilvania</hi> in <hi>America,</hi> of cruel and insidious Practices, if they had but such an Advocate as <hi>T. T.</hi> or such a Scribbler to scribble over a Remonstrance, or draw up a Com<g ref="char:EOLhyphen"/>plaint for them against cruel, hard-hearted Man, (as his Phrase is) whom he calls a <hi>Setter,</hi> a <hi>Trepan,</hi> a <hi>Snare,</hi> a <hi>Plague</hi> and <hi>Torment to all the In<g ref="char:EOLhyphen"/>habitants of the four Worlds?</hi> But if he did not expect to get Mo<g ref="char:EOLhyphen"/>ney by his fictious Stories, <hi>(the love of which is the root of all evil)</hi> I am perswaded he would never have so mispent his time, and mar<g ref="char:EOLhyphen"/>red Paper, and troubled the Press: for tho' right words are forcible, yet what does his arguing prove less than the words of the Preach<g ref="char:EOLhyphen"/>er true on himself, <hi>Eccles. 10. Chap. 11. v. 12, 13. Surely the Serpent will bite without Enchantment; and a Babler is no better: For tho' the words of the wise man's mouth are gracious, yet the lips of a fool will swal<g ref="char:EOLhyphen"/>low up himself. The beginning of the words of his mouth is foolishness, and the end of his talk is mischievous madness.</hi> And true also it is, that <hi>the fool is full of words;</hi> and had not T. T. been so, (or his head full of sensless matter) we should never have had Book after Book, or, to speak in the Musicians Phrase, the first, second, third and fourth part to the same tune; and stories of the Sheeps language, and Sheep's, Cow's, Ox<g ref="char:EOLhyphen"/>en, Horses and Birds Complaints; and such like idle Fictions, that seem rather to come from a giddy Head, than a Heart truly season'd with Grace: Yea, I may say, How much below the Dignity of a man is such fictious <hi>Little-tattle!</hi> and more abundantly below a Chri<g ref="char:EOLhyphen"/>stian, and remote from the sound and solid Doctrine of true Christi<g ref="char:EOLhyphen"/>anity, to make the Birds say, (because a Christian Man shoots them for food) <q>Why dost thou with this Engine of War murder me, and fight with me? Dost not know that thy great Prophet Christ
+<pb n="25" facs="tcp:205482:15"/> hath said, <hi>My Kingdom is not of this World, for then would my Servants fight?</hi>
+               </q>—Oh idle, foolish, vain and ignorant Man! as if the shooting of Birds was fighting, and contrary to the Practice of Christ's Servants! Away with these idle Conceits: What Scripture is there for this? see<g ref="char:EOLhyphen"/>ing thou say'st thou desir'st not to impose thy Dictates any further than Scripture and right Reason enjoyns: Let me have Scripture for it, or right Reason.</p>
+            <p>I also observe, that thou many times flatteringly say'st to them, Thou so heavily complains against <hi>my dear Friends,</hi> and <hi>my Friends,</hi> &amp;c. and saith, <q>I must, because it is my Duty, nominate some particu<g ref="char:EOLhyphen"/>lars for us to observe,</q>
+               <hi>p.</hi> 105.—Pray what <hi>Ʋs</hi> is that thou art one of? Or what People dost thee joyn to? Or what Profession of Religion art thee of? Or what Denomination dost thou go under? And what are the Particulars the <hi>Ʋs</hi> must observe? Is it, that nei<g ref="char:EOLhyphen"/>ther Fish, Fowl, nor Beast, should be either kill'd or eaten; tho' (as I have often said) in Moderation, the Fear of God, and received with Thanksgiving? Oh strange! that a Man pretending to be so know<g ref="char:EOLhyphen"/>ing, should plead such a necessity and Duty for that which is neither required by the Lord, nor laid as an absolute Necessity on Man, neither wholly necessary for every Man to follow, much less their Christian Duty! What Doctrine would this be?</p>
+            <p>Well, to take notice of all his Errours, Absurdities, false Doctrine, idle Fictions, Contradictions, <hi>&amp;c.</hi> would take up more time and Pa<g ref="char:EOLhyphen"/>per than I am willing to spend, and swell my Book to more Sheets than there is now Pages.</p>
+            <p>I therefore pass by this Book; and shall give a little Sample out of another Book of his, to shew what Stuff it's made on, or to relish what Root or Spirit it comes from.</p>
+            <p>It's called (or miscalled, like his other Books,) The <hi>Good House<g ref="char:EOLhyphen"/>wife made Doctor;</hi> or, <hi>Health's Choice and sure Friend,</hi> &amp;c.</p>
+            <p>
+               <hi>Pag.</hi> 185. he saith, <q>Mens Coveting Flesh and Blood is a true sign and testimony of their miserable Fall, and that they live under the power of the dark fierce Wrath.</q>
+            </p>
+            <p>Now whether this is not a true sign and Testimony of his false
+<pb n="26" facs="tcp:205482:16"/> Doctrine, and miserable fall from the Divine Knowledge, (if he was ever acquainted with it) let the Reader judge? And whether he doth not live under the Power of Darkness, that hath no clearer Under<g ref="char:EOLhyphen"/>standing? and whether the Prince thereof is not the Author of this his most dreadful censorious Assertion; <hi>i. e.</hi>
+               <q>That Mens desiring or coveting Flesh</q> (without exception, as only to eat in Moderati<g ref="char:EOLhyphen"/>on, and the Fear of God, and to receive it with thanksgiving, <hi>&amp;c.)</hi>
+               <q>is a sign and Testimony that they are no <hi>Christians,</hi> or live under the power of the dark Wrath,</q> (which implys as much,) and so not un<g ref="char:EOLhyphen"/>der the Power of God, and Government of the holy Spirit of Christ, which they that have not are none of his; neither are they God's Sons which are not led by his Spirit:—And will T. T. say, they are led by God's Spirit in whom the fierce Wrath predominates, or that desire or covet to eat Flesh as aforesaid?</p>
+            <p>Take this, as I said, for a Sample, with a few Instances more out of his said Book, which are to shew how T. T. (like the clamorous Woman) pulls down his House with his own hands, or stabs his own espoused Cause to the Heart, and gives the overthrow to his great<g ref="char:EOLhyphen"/>ly applauded and beloved Doctrine of <hi>Eating</hi> no <hi>Flesh,</hi> because of the many Evils and Miseries that attend it, <hi>&amp;c.</hi> saith he: The Instance is this, <hi>p.</hi> 192 of his Book entituled, The <hi>Good Housewife, &amp;c.</hi> He tells what brave food <hi>Reddock, Dandelion, Comefrey</hi> is, and the like, (which grows in the Fields as he saith) boyled as he prescribes, dres<g ref="char:EOLhyphen"/>sed as he directs, butter'd as he orders, and salted as he would have it, and eaten as he advises.</p>
+            <p>But how is that, some may say? He gives so many Prescripti<g ref="char:EOLhyphen"/>ons, Directions and Rules, it's needful to be well inform'd how it must be eaten; and especially because he puts this Emphasis upon it, saying, it's <hi>A brave wholesome Food.</hi>
+            </p>
+            <p>Well, I now will give his Receipt, as I find it in <hi>p.</hi> 193. thus: <q>Then <hi>Eaten</hi> with Bread, or Bread and <hi>Flesh,</hi> makes a <hi>Brave whole<g ref="char:EOLhyphen"/>some food.</hi> And in <hi>p.</hi> 186. tells of Sallet, of <hi>Spinnage, Parsley, Sor<g ref="char:EOLhyphen"/>rel, Lettice,</hi> and a few Onions, and Vinegar, and Salt, <hi>&amp;c.</hi>
+               </q> with such a Sallet, saith he, you <hi>may eat Flesh.</hi>
+            </p>
+            <p>And now if he have not writ to the purpose, let the Reader judge; for that which in all his four Books he hath preached against
+<pb n="27" facs="tcp:205482:16"/> the <hi>Killing</hi> and <hi>Eating</hi> of, to wit, <hi>Flesh;</hi> and told how many Evils and Miseries attend the Eating of it, which he also saith, can't be eaten without Violence, and exciting the fierce Wrath, and rendring a Man ready and prompt for any Acts of Cruelty and Op<g ref="char:EOLhyphen"/>pression, <hi>&amp;c.</hi> And in the Book called, The <hi>Good-Houswife,</hi> &amp;c. he saith, <q>From the common <hi>Eating of Flesh,</hi> without distinction, proceeds Ptisicks, Stoppages of the Breast, makes the Spirits dull and im<g ref="char:EOLhyphen"/>pure; whence do arise heavy, lumpish Dispositions, with ravenous fierce Inclinations, and cruel Passions, which <hi>Causes</hi> many to use evil words; demonstrating that the dark Center of Wrath is awakened;—wicked and hellish Speeches, Cursing, and not only impiously prophaning the Name of God, but even challenging, and as it were, daring his tremendous Majesty (whose Wrath is a <hi>Con<g ref="char:EOLhyphen"/>suming Fire)</hi> to Damn and Confound them, and calling their fel<g ref="char:EOLhyphen"/>low Creatures, Dogs, Whelps, Sons of Whores, and an hundred of the like Names, <hi>p.</hi> 217, and 218.</q> And tho' he saith, all this comes of, or proceeds from the <hi>Common Eating of Flesh;</hi> (how true or false it is, let the Reader judge) yet eaten with <hi>Reddock, Dandelion, Comfrey,</hi> it is <hi>A brave wholesome Food,</hi> saith he; (if boyled, buttered and salted as he directs;) But in contradiction again to this, and that the Reader may see how he goes round, in <hi>p.</hi> 75. of his Book term<g ref="char:EOLhyphen"/>ed <hi>Wisdom</hi>'s <hi>Call,</hi> &amp;c. he saith, <hi>Do not eat Flesh nor Fish:</hi> And in <hi>p.</hi> 45. of the same Book, he saith, <hi>It can't be eaten without Violence,</hi> &amp;c. But in <hi>p.</hi> 186. of his <hi>Good Housewife,</hi> &amp;c. he saith, <hi>With Spinnage, Sorrel, Lettice, and a few Onions, Vinegar and Salt, you may eat Meat:</hi> So he forbids the eating of it, and yet allows it; he greatly discommends it, and commends it for a <hi>brave wholsome Food:</hi> But how brave a Phi<g ref="char:EOLhyphen"/>losopher or Divine he is herein, let them that have received a Di<g ref="char:EOLhyphen"/>vine Understanding judge; and let T. T. prove, if he can, that the common eating of Flesh in Moderation, and the Fear of God, and re<g ref="char:EOLhyphen"/>ceiving it with Thanksgiving, makes any Mans Spirit impure, <hi>&amp;c.</hi> or makes them use evil Words, wicked and hellish Speeches, <hi>&amp;c.</hi> and, as it were challenge God to Damn them, <hi>&amp;c.</hi> And also let him prove, that <hi>Reddock, Dandelion, Comfrey,</hi> hath such properties in them to make that wholesome, which (if eaten without them) would be of such ill tendency, and breed Ptisicks, Stoppages of the Breast, <hi>&amp;c.</hi>
+            </p>
+            <pb n="28" facs="tcp:205482:17"/>
+            <p>So wishing he may have a more clear Understanding, espe<g ref="char:EOLhyphen"/>cially in those things that are Divine; I shall conclude, de<g ref="char:EOLhyphen"/>siring none may be like Children that are <hi>tossed to and fro with every Wind of Doctrine, by the Sleight of Men, and cunning Craftiness, whereby they lye in wait to deceive;</hi> but through Obedience to the Truth and Spirit of it in their own Hearts, may Day by Day know a growing into him in all things, in <hi>whom the Father is well-pleased,</hi> that they may come to be <hi>accepted in the Beloved;</hi> through whom, to God only wise be Glory, for ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>J. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:205482:17"/>
+            <head>
+               <hi>Books sold by</hi> Thomas Howkins <hi>in</hi> George-yard <hi>in</hi> Lombard-street.</head>
+            <p>AN useful Book is now published, Entituled, <hi>The Young mans Com<g ref="char:EOLhyphen"/>panion;</hi> containing, plain and easie directions for Spelling and Reading <hi>English;</hi> and Englishing the Latin Bible without a Teacher: With easie Rules for Writing and Arithmetick, and to plot and mea<g ref="char:EOLhyphen"/>sure Land, Globes, Steeples, Walls, Barrels, Timber, Stone, Boards, Glass: of Surveying, Astronomy, Dialling, Glazing, Astrology, Geometry, of the Weather; some secrets in Navigation, Draw<g ref="char:EOLhyphen"/>ing, Geography, colouring of Globes, with a Map of <hi>England;</hi> and a brief History of the Kings thereof. Remarques on the late great Frost, and other prodigious accidents, with an account of the Commodities of several Countries, Receipts to make Red and Black Ink, and Green, Red and Black Wax, also to dye Cloath, Stuffs, Thread, either Green, Yellow, Red, Purple, or sad colour; together with the nature of Herbs, Druggs, <hi>&amp;c.</hi> Rules for Bakers, Taylors, <hi>&amp;c.</hi> Husbandry, Measures, Weights, and Numbers, Account of Time, Days and Months under their various Denominations. All forreign Coin reduced to English money, sale of Goods, Exchange of Wares, physical Receipts, to purge Phlegm, Melancholy, Cholour, and for the Cure of Cold, Coughs, Stone, Sciatica, Swelling, sore Throats, Breast, or Mouth, Scurvy, shortness of Breath, Rickets, Rupture. Madness, Feaver, and Ague, Fundament pained, Wind, Worms, Shingles, Rheum in the Eyes, Teeth-Ache, Dropsie, Pleurisie, with the signs of many of those Distempers. Of Chyrurgery, Husbandry, and ordering of Bees; Purchase of Annuities, Leases, <hi>&amp;c.</hi> With an Explanation of hard words in Law, and a Rela<g ref="char:EOLhyphen"/>tion of the ancient Inhabitants of <hi>England,</hi> and of all the Fairs, High<g ref="char:EOLhyphen"/>ways, Roads and Havens thereof; also a Register of the sufferings of the Prophets and Apostles; and many more useful things. Together with an Alphabetical Table, for the ready finding any matter therein contained. By <hi>William Mather.</hi>
+            </p>
+            <pb facs="tcp:205482:18"/>
+            <p>The <hi>Artless Midnight Thoughts</hi> of a Gentleman at Court, who for many years built on the <hi>Sand,</hi> which every Blast of cross Fortune has defaced; but now he has laid new Foundations on the <hi>Rock of his Salvation,</hi> which no <hi>Storms</hi> can shake; and will out-last the <hi>Conflagra<g ref="char:EOLhyphen"/>tion</hi> of the <hi>World,</hi> when <hi>Time</hi> shall melt into <hi>Eternity.</hi>
+            </p>
+            <p>
+               <hi>Trigonometry made easie;</hi> fitted to the meanest Capacity: It being the Foundation of <hi>Astronomy, Navigation, Dyalling, Surveying, Geogra<g ref="char:EOLhyphen"/>phy, Perspective</hi> and <hi>Gunnery.</hi> By <hi>John Holwell</hi> Philomath.</p>
+            <p>The <hi>Royal Catholick English School;</hi> containing a Catalogue of all the Words in the Bible, beginning with one Syllable, and proceeding by degrees to eight; divided and not divided: Together with a brief and compleat Table of the most usual and common <hi>English</hi> Words. The Fifth Edition, much Enlarged and Corrected. By <hi>Tobias Ellis,</hi> Minister of the Gospel.</p>
+            <p>
+               <hi>Mellificium Mensionis;</hi> or, The <hi>Marrow of Measuring:</hi> Wherein a new and ready way is shewn how to measure <hi>Glazing, Painting, Pla<g ref="char:EOLhyphen"/>stering Masonry, Joyner</hi>'s <hi>Carpenter</hi>'s and <hi>Brick-layer</hi>'s Works. The Se<g ref="char:EOLhyphen"/>cond Edition Corrected. By <hi>Venterus Mandey.</hi>
+            </p>
+            <p>
+               <hi>Divine Immediate Revelation</hi> and Inspiration continued in the true Church, Second Part; in two Treatises: The first being an Answer to <hi>Jo. W. Bajer,</hi> Doctor and Professor of Divinity, so called, at <hi>Jena,</hi> in <hi>Germany;</hi> Published first in <hi>Latin,</hi> and now in <hi>English.</hi> The se<g ref="char:EOLhyphen"/>cond being an Answer to <hi>George Hicks,</hi> stiled Doctor of Divinity, his Sermon Preached at <hi>Oxford,</hi> 1681. and Printed with the Title of, <hi>The Spirit of Enthusiasm Exorcised;</hi> where this pretended Exorcist is de<g ref="char:EOLhyphen"/>tected. Together with some Testimonies of Truth, Collected out of divers Antient Writers, or Fathers, so called. <hi>G. K.</hi>
+            </p>
+            <p>Dr. <hi>Everard</hi>'s Works, in <hi>Octavo.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
